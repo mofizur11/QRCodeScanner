@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b869311-9b9f-4858-8cc5-c59e98e60f47" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/java/com/idea/solution/livewallpaper/Adapter/MyFragmentAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/java/com/idea/solution/livewallpaper/Common/Common.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/java/com/idea/solution/livewallpaper/Fragment/CategoryFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/java/com/idea/solution/livewallpaper/Fragment/DailyPopularFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/java/com/idea/solution/livewallpaper/Fragment/RecentsFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/java/com/idea/solution/livewallpaper/Helper/SaveImageHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/java/com/idea/solution/livewallpaper/HomeActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/java/com/idea/solution/livewallpaper/Interface/ItemClickListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/java/com/idea/solution/livewallpaper/ListWallpaper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/java/com/idea/solution/livewallpaper/Model/CategoryItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/java/com/idea/solution/livewallpaper/Model/WallpaperItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/java/com/idea/solution/livewallpaper/UploadWallpaper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/java/com/idea/solution/livewallpaper/ViewHolder/CategoryViewHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/java/com/idea/solution/livewallpaper/ViewHolder/ListWallpaperViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/java/com/idea/solution/livewallpaper/ViewWallpaper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/res/drawable/ic_baseline_arrow_downward_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/res/drawable/ic_baseline_cloud_upload_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/res/drawable/ic_baseline_event_note_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/res/drawable/ic_baseline_explore_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/res/drawable/ic_baseline_share_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/res/drawable/ic_baseline_terrain_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/res/drawable/side_nav_bar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/res/layout/activity_list_wallpaper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/res/layout/activity_upload_wallpaper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/res/layout/activity_view_wallpaper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/res/layout/app_bar_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/res/layout/fragment_category.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/res/layout/fragment_daily_polular.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/res/layout/fragment_recents.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/res/layout/layout_category_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/res/layout/layout_wallpaper_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/res/layout/nav_header_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/res/menu/activity_main_drawer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/res/menu/bottom_navigation_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/res/menu/home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/res/values-v21/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LiveWallpaper/app/src/main/res/values/drawables.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/idea/solution/qrcodescanner/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/idea/solution/qrcodescanner/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_scanner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/idea/solution/qrcodescanner/ExampleUnitTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="DKNE201905002718" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1iHQtL5IqR9ZcC1l7lGVl1jtTXY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PhoneMangement" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="do_nothing" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b869311-9b9f-4858-8cc5-c59e98e60f47" name="Default Changelist" comment="" />
+      <created>1601562250280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601562250280</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="229" y="150" key="#Notifications" timestamp="1601563095198">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="229" y="150" key="#Notifications/0.0.1280.984@0.0.1280.984" timestamp="1601563095198" />
+    <state x="91" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601563253397">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="91" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984@0.0.1280.984" timestamp="1601563253397" />
+    <state x="366" y="276" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1601563128365">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="366" y="276" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.984@0.0.1280.984" timestamp="1601563128365" />
+    <state x="495" y="305" key="AndroidCreateXmlResourceDialog" timestamp="1601564137719">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="495" y="305" key="AndroidCreateXmlResourceDialog/0.0.1280.984@0.0.1280.984" timestamp="1601564137719" />
+    <state x="292" y="86" key="CommitChangelistDialog2" timestamp="1602083713645">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="292" y="86" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1602083713645" />
+    <state x="417" y="246" key="FileChooserDialogImpl" timestamp="1602083741833">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="417" y="246" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1602083741833" />
+    <state width="1205" height="205" key="GridCell.Tab.0.bottom" timestamp="1602084618976">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1205" height="205" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1602084618976" />
+    <state width="1205" height="205" key="GridCell.Tab.0.center" timestamp="1602084618976">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1205" height="205" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1602084618976" />
+    <state width="1205" height="205" key="GridCell.Tab.0.left" timestamp="1602084618976">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1205" height="205" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1602084618976" />
+    <state width="1205" height="205" key="GridCell.Tab.0.right" timestamp="1602084618976">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1205" height="205" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1602084618976" />
+    <state x="217" y="235" key="IDE.errors.dialog" timestamp="1601565362464">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="217" y="235" key="IDE.errors.dialog/0.0.1280.984@0.0.1280.984" timestamp="1601565362464" />
+    <state x="138" y="134" key="SettingsEditor" timestamp="1601565574874">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="138" y="134" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1601565574874" />
+    <state x="446" y="409" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601562996988">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="446" y="409" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.984@0.0.1280.984" timestamp="1601562996988" />
+  </component>
+</project>

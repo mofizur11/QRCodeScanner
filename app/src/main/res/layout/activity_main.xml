@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:weightSum="10"
+    android:orientation="vertical"
+    tools:context="com.idea.solution.qrcodescanner.MainActivity">
+
+    <com.budiyev.android.codescanner.CodeScannerView
+        android:id="@+id/scanner_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="9"
+        app:autoFocusButtonColor="@android:color/white"
+        app:autoFocusButtonVisible="true"
+        app:flashButtonColor="@android:color/white"
+        app:flashButtonVisible="true"
+        app:frameColor="@android:color/white"
+        app:frameCornersSize="50dp"
+        app:frameCornersRadius="0dp"
+        app:frameAspectRatioWidth="1"
+        app:frameAspectRatioHeight="1"
+        app:frameSize="0.75"
+        app:frameThickness="2dp"
+        app:maskColor="#77000000"/>
+
+    <TextView
+        android:id="@+id/scan_value"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:autoLink="all"
+        android:text="@string/scan_value"
+        android:textSize="25sp"
+        android:textColor="#881E1E"
+        android:gravity="center"
+        android:layout_weight="1"/>
+</LinearLayout>
